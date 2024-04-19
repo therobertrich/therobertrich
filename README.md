@@ -1,5 +1,7 @@
 # Howdy there, Robert here!
 
+<a href="https://www.linkedin.com/in/therobertrich"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 I am Robert Richter. I am an IT Professional, currently working as Cybersecurity Analyist for a private healtcare company in Cincinnati, Ohio.
 
 I am an alumi of Miami University with a Bachelors Degree in Information Technology.

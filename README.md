@@ -1,6 +1,8 @@
 # Hello there, Robert here!
 
-<a href="https://www.linkedin.com/in/therobertrich"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/therobertrich"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+![GitHub followers](https://img.shields.io/github/followers/therobertrich)
+
 
 I am Robert Richter, a Cybersecurity Analyst with 5+ years of healthcare IT experience, based in the Greater Cincinnati area.
 
